@@ -4,6 +4,10 @@ using UnityEngine;
 
 public class Achievements : MonoBehaviour
 {
+
+    public bool killedThreeEnemies;
+    public int numberOfEnemiesKilled;
+
     // Start is called before the first frame update
     void Start()
     {

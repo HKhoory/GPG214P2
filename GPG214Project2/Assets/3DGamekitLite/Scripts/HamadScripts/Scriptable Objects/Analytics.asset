@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 278f65d3091a03d4097a4239fa3cf4bc, type: 3}
   m_Name: Analytics
   m_EditorClassIdentifier: 
-  fullFileName: file.json
+  fullFileName: Analytics.json
   fileLink: 
   metaFileLink: 
-  version: 
+  version: 1

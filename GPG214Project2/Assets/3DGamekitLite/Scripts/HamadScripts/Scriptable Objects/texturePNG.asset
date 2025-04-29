@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 278f65d3091a03d4097a4239fa3cf4bc, type: 3}
   m_Name: texturePNG
   m_EditorClassIdentifier: 
-  fullFileName: file.json
-  fileLink: 
+  fullFileName: texturepng.json
+  fileLink: https://drive.google.com/file/d/1ur38Xnxr3hMCZHiu2S0oExjiBOrbkTrZ/view?usp=drive_link
   metaFileLink: 
-  version: 
+  version: 1
